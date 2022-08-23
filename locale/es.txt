@@ -1,0 +1,129 @@
+#: locale=es
+
+## Acción
+
+### URL
+PopupWebFrameBehaviour_4E50B35F_5F04_3019_41B2_7F38F9E86D7C.url = https://info.tonic3.com/-temporary-slug-d819b513-1a02-4c15-9341-2f21f3ef24f1?hs_preview=FQxjqmFX-75194580352
+
+
+PopupWebFrameBehaviour_4E4BE7B6_5F1C_702B_41BF_9001167EA493.url = https://tonic3life.com/pt.html 
+
+
+
+## E-Learning
+
+### Nombre Puntuación
+score1.label = Score
+
+### Pantalla Fin de Tiempo
+quizTimeout_79A87657_4028_24BD_41CE_D0A126E04261.title = - TIMEOUT -
+quizTimeout_79A87657_4028_24BD_41CE_D0A126E04261.repeat = Repeat
+quizTimeout_79A87657_4028_24BD_41CE_D0A126E04261.score = View Score
+
+### Pantalla Pregunta
+quizQuestion_79A86657_4028_24BD_41B6_5BE902D42322.ok = OK
+
+### Pantalla Reporte
+quizScore_7856B658_4028_24B3_41A7_A8AC540ABFBA.description = "Congratulations you've completed the quiz"
+quizScore_7856B658_4028_24B3_41A7_A8AC540ABFBA.title = - SCORE -
+quizScore_7856B658_4028_24B3_41A7_A8AC540ABFBA.completion = Completed
+quizScore_7856B658_4028_24B3_41A7_A8AC540ABFBA.questionsCorrect = Correct
+quizScore_7856B658_4028_24B3_41A7_A8AC540ABFBA.downloadCSV = Download .csv
+quizScore_7856B658_4028_24B3_41A7_A8AC540ABFBA.questionsIncorrect = Incorrect
+quizScore_7856B658_4028_24B3_41A7_A8AC540ABFBA.items = Items Found
+quizScore_7856B658_4028_24B3_41A7_A8AC540ABFBA.questions = Questions
+quizScore_7856B658_4028_24B3_41A7_A8AC540ABFBA.repeat = Repeat
+quizScore_7856B658_4028_24B3_41A7_A8AC540ABFBA.submitToLMS = Submit
+quizScore_7856B658_4028_24B3_41A7_A8AC540ABFBA.elapsedTime = Time
+
+### Pregunta
+question_7EF626F3_40F8_2575_41CD_717155178DC7.title = An antigen is an immunoglobulin produced by the body in response to exposure to a specific foreign substance.
+question_7C84F2E1_40D8_3D95_41B1_ECC69A3C7E19.title = Smooth muscle tissue propels blood through the arteries and veins of the circulatory system.
+question_7F8CCDA3_40EB_E795_41D0_2A93779A2C50.title = The myocardium is the fibroserous sac that surrounds the heart and is the origin of the great vessels.
+question_7FF9AABC_40E8_2DF3_41BD_BCBEFC669BE3.title = The rate of decline in muscle performance depends on exercise patterns and lifestyle.
+question_7967969A_40F8_65B7_41B0_1970BFC80974.title = The term which means "located near the ear" is...
+question_7FAB6CB9_40E8_65F5_41C3_439154AACD96.title = What are the projections on the distal ends of the tibia and fibula?
+
+### Respuesta
+questionOption_7CBBF8A7_40E8_2D9D_41A8_4F839DCDFD10.text = Ball joint
+questionOption_7E16F85E_40EF_ECAD_41CB_306013366ED4.text = False
+questionOption_78A0E1D0_40D8_3FB3_41A3_FAD7E5A8F76C.text = False
+questionOption_7F7FA0F0_40F8_3D73_41B2_17C26916A2EB.text = False
+questionOption_7BE6F81E_40E8_2CAF_41CD_A9BEA7B28EEE.text = False
+questionOption_7BE4B11C_40E8_7CB3_41B1_C5353DA6B207.text = Malleolus
+questionOption_78E08437_40E8_E4FD_41CA_1CCC5805A889.text = Malleus
+questionOption_7897B81F_40E8_2CAD_41C5_F7C2EC2B4F82.text = Marrow
+questionOption_78FACBF7_40E8_237D_41CD_56F7DD51D9D9.text = Ossicle
+questionOption_7B1B5216_40E8_1CBF_418A_2D100F7219A2.text = Parotid
+questionOption_7C8E5D35_40E8_E4FD_41C7_91FD34A79B51.text = Pectoral
+questionOption_7B471AAC_40E8_2D93_41BF_A20551389532.text = The handle
+questionOption_7B73ABB1_40E8_63F5_41A2_85D56E9B8AC4.text = True
+questionOption_7CD689E7_40F8_6F9D_41BB_CF1EB356D0EE.text = True
+questionOption_78D08A74_40D8_6D73_41C5_BCF69712EE19.text = True
+questionOption_7FB1D8E1_40E8_2D95_41C9_76BFFAB14A28.text = True
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_4A8492E6_6A00_3FC8_41D9_FDB0F28F473D.toolTip = Download Certifications.pdf
+HotspotPanoramaOverlayArea_484446DE_6A00_27F9_41CE_A7104CB0595D.toolTip = Download HCP.pdf
+HotspotPanoramaOverlayArea_71B66FAE_4058_23EF_41B9_41871487BC62.toolTip = Download Main Clients.pdf
+HotspotPanoramaOverlayArea_71A864E1_4059_E595_41C2_2E181271C30A.toolTip = Download Main Services.pdf
+HotspotPanoramaOverlayArea_513A4F54_5F0C_506E_41B5_F9565FB0ED14.toolTip = Download What We Do.pdf
+HotspotPanoramaOverlayArea_E2900797_F242_F8BD_41DC_CED030EAD638.toolTip = Web Tonic3
+
+### URL
+overlay_CA5E0F8F_D23D_03FD_41B9_A480A07CFC85.url = //www.youtube.com/embed/619e2rogYQ0
+overlay_CA05EF17_D205_04ED_41E4_2CB493B16940.url = //www.youtube.com/embed/MZ2tJXewc1Q?v=MZ2tJXewc1Q
+overlay_CB843DDE_D23D_071F_4199_436075F2C742.url = //www.youtube.com/embed/vjRDzeSyLGY?v=vjRDzeSyLGY
+
+## Media
+
+### Imágen
+imlevel_64F802C3_72C6_3028_41D5_07DB53E90BE7.url = media/popup_4D5A9B24_5F04_702F_41B0_2FBECC31D499_es_0_0.png
+imlevel_64F812C4_72C6_3028_41C3_A701A511D859.url = media/popup_4D5A9B24_5F04_702F_41B0_2FBECC31D499_es_0_1.png
+imlevel_6407435A_72C6_30D8_4150_29093F8EEC57.url = media/popup_4D65EAF5_5F04_D02E_4188_466D0B611514_es_0_0.jpg
+imlevel_6407535A_72C6_30D8_41D8_9AE905CD4987.url = media/popup_4D65EAF5_5F04_D02E_4188_466D0B611514_es_0_1.jpg
+imlevel_64FADFCF_72C6_1038_41D2_ABF3E8D34797.url = media/popup_4D6F710C_5F0C_71FE_41CF_88E97BF9973E_es_0_0.png
+imlevel_64FACFCF_72C6_1038_41CF_9E794ECD7790.url = media/popup_4D6F710C_5F0C_71FE_41CF_88E97BF9973E_es_0_1.png
+imlevel_64F9315F_72C6_30D8_41CB_B0857485A0DB.url = media/popup_4EA39037_5F04_502A_41D7_8893CE82615E_es_0_0.png
+imlevel_64F9015F_72C6_30D8_41C0_C8DD8F0D8339.url = media/popup_4EA39037_5F04_502A_41D7_8893CE82615E_es_0_1.png
+imlevel_AE6C18DC_B2BC_21CE_41D5_673BC45D62A3.url = media/zoomImage_9562D586_87A0_F2DF_41C1_3E66AAF0AB58_es_0_0.jpg
+imlevel_AE6C28DD_B2BC_21CE_41DF_BF6FABF48DE0.url = media/zoomImage_9562D586_87A0_F2DF_41C1_3E66AAF0AB58_es_0_1.jpg
+imlevel_AE6C38DD_B2BC_21CE_41E0_D554C1DD3ABA.url = media/zoomImage_9562D586_87A0_F2DF_41C1_3E66AAF0AB58_es_0_2.jpg
+imlevel_AE63D8ED_B2BC_21CE_41DC_BC731CE773FF.url = media/zoomImage_9BD05DA1_B2C2_693D_41E0_459390DCADA5_es_0_0.jpg
+imlevel_AE63E8ED_B2BC_21CE_41D2_54F9F5091ED7.url = media/zoomImage_9BD05DA1_B2C2_693D_41E0_459390DCADA5_es_0_1.jpg
+imlevel_AE63F8EE_B2BC_21CA_41E3_84CDA190ABEB.url = media/zoomImage_9BD05DA1_B2C2_693D_41E0_459390DCADA5_es_0_2.jpg
+
+### Popup Imágen
+
+### Título
+panorama_CB9D1D78_D2FF_0723_41C4_6017CB8E9A82.label = Laboratory
+
+## Skin
+
+### Imágen
+Image_60803F7F_724B_F0D8_41DA_0821349BC19C.url = skin/Image_60803F7F_724B_F0D8_41DA_0821349BC19C_es.png
+Image_60803F7F_724B_F0D8_41DA_0821349BC19C_mobile.url = skin/Image_60803F7F_724B_F0D8_41DA_0821349BC19C_mobile_es.png
+Image_6094A2F5_724A_11EB_41DB_77C82457522B.url = skin/Image_6094A2F5_724A_11EB_41DB_77C82457522B_es.png
+Image_6094A2F5_724A_11EB_41DB_77C82457522B_mobile.url = skin/Image_6094A2F5_724A_11EB_41DB_77C82457522B_mobile_es.png
+Image_614A9320_7246_3068_41D9_5A7FD0B6FA7F.url = skin/Image_614A9320_7246_3068_41D9_5A7FD0B6FA7F_es.png
+Image_614A9320_7246_3068_41D9_5A7FD0B6FA7F_mobile.url = skin/Image_614A9320_7246_3068_41D9_5A7FD0B6FA7F_mobile_es.png
+Image_614FC02F_7246_1078_41D3_545D2F610C9B.url = skin/Image_614FC02F_7246_1078_41D3_545D2F610C9B_es.png
+Image_614FC02F_7246_1078_41D3_545D2F610C9B_mobile.url = skin/Image_614FC02F_7246_1078_41D3_545D2F610C9B_mobile_es.png
+Image_61525E97_724A_F028_41CA_754C0B0970BC.url = skin/Image_61525E97_724A_F028_41CA_754C0B0970BC_es.png
+Image_61525E97_724A_F028_41CA_754C0B0970BC_mobile.url = skin/Image_61525E97_724A_F028_41CA_754C0B0970BC_mobile_es.png
+Image_61683CF5_7246_71E8_41D7_D221D00EED9A.url = skin/Image_61683CF5_7246_71E8_41D7_D221D00EED9A_es.png
+Image_61683CF5_7246_71E8_41D7_D221D00EED9A_mobile.url = skin/Image_61683CF5_7246_71E8_41D7_D221D00EED9A_mobile_es.png
+Image_9B3DCDDD_B2C2_2904_41B9_BE8CCD0D2B96.url = skin/Image_9B3DCDDD_B2C2_2904_41B9_BE8CCD0D2B96_es.jpg
+Image_A865A0DC_B2DC_61CD_41DB_A2F04CF72510.url = skin/Image_A865A0DC_B2DC_61CD_41DB_A2F04CF72510_es.png
+Image_B12960F9_F110_310A_41E7_0B6F2C39DAC1.url = skin/Image_B12960F9_F110_310A_41E7_0B6F2C39DAC1_es.png
+Image_B5313034_97D0_958C_41C7_E7B8A4D3E5B4.url = skin/Image_B5313034_97D0_958C_41C7_E7B8A4D3E5B4_es.png
+Image_B669D1E8_97D0_9684_41D8_6BFF53255BBC.url = skin/Image_B669D1E8_97D0_9684_41D8_6BFF53255BBC_es.png
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Laboratory
